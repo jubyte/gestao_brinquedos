@@ -1,6 +1,6 @@
-# Sistema de Gestão de Brinquedos
+# SISTEMA GESTÃO DE BRINQUEDOS
 
-## Descrição
+## Objetivo
 
 O Sistema de Gestão de Brinquedos foi desenvolvido para auxiliar no controle dos brinquedos disponíveis em estoque. O sistema permite cadastrar, visualizar, editar e excluir brinquedos, mantendo suas informações armazenadas em um banco de dados MySQL. Cada brinquedo possui as informações de nome, categoria, faixa etária, preço e quantidade em estoque.
 
